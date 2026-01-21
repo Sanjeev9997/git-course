@@ -3,3 +3,5 @@ Data is Ok
 Added new data
 
 create an avatar for user
+
+login and logout
