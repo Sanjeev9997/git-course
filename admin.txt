@@ -1,5 +1,6 @@
 Add and remove users
 change the roles
+closing the database connection
 
 change1
 change 2 in my database
